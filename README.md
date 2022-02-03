@@ -8,7 +8,7 @@ I made the change to switch the IC to a DG211/DG411, since those are far more av
 
 ## PCB and Hardware
 
-<img src="images/panel_rront.JPG" width="25%" height="25%">
+<img src="images/panel_front.JPG" width="25%" height="25%">
 
 You can find the schematic and BOM in the root folder. 
 For the PCBs, the module has one circuit PCB and one panel PCB. You can order them on any common PCB manufacturing service, I used JLCPCB. Standard settings should be fine.
