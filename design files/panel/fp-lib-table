@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "hagiwo_select")(type KiCad)(uri "$(KIPRJMOD)/hagiwo_select.pretty")(options "")(descr ""))
+)
