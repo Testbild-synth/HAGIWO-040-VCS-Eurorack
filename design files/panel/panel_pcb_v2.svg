@@ -730,9 +730,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="g1398"
      inkscape:document-units="mm"
-     inkscape:cy="275.30701"
-     inkscape:cx="-30.129605"
-     inkscape:zoom="1.3465036"
+     inkscape:cy="155.26006"
+     inkscape:cx="7.1212719"
+     inkscape:zoom="2.6930072"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -770,7 +770,7 @@
      inkscape:label="B.SilkS"
      inkscape:groupmode="layer"
      id="g1400"
-     style="display:inline;opacity:0.233062"
+     style="display:none;opacity:0.233062"
      transform="translate(0,-0.6)">
     <text
        xml:space="preserve"
@@ -1077,7 +1077,7 @@
      inkscape:label="F.Cu"
      inkscape:groupmode="layer"
      id="g1402"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(0,-0.6)">
     <g
        id="g1348"
@@ -1404,7 +1404,7 @@
      inkscape:label="F.Mask"
      inkscape:groupmode="layer"
      id="g1404"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(0,-0.6)">
     <path
        sodipodi:nodetypes="csscccccccsc"
@@ -1421,7 +1421,7 @@
      inkscape:label="F.SilkS"
      inkscape:groupmode="layer"
      id="g1406"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(0,-0.6)">
     <g
        id="text941-1-5-7-6-7"
@@ -1738,6 +1738,10 @@
      style="display:inline;opacity:1"
      transform="translate(0, -0.6)">
     <path
+       id="rect5682"
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;shape-rendering:crispEdges"
+       d="M 7.2305 71.942 L 22.7695 71.942 L 22.9332 71.9502 L 23.092 71.9743 L 23.2453 72.0135 L 23.3921 72.067 L 23.5317 72.1341 L 23.6633 72.2139 L 23.8994 72.4085 L 24.0941 72.6446 L 24.1739 72.7763 L 24.241 72.9159 L 24.2945 73.0627 L 24.3337 73.2159 L 24.3578 73.3748 L 24.366 73.5385 L 24.366 111.382 L 24.3578 111.546 L 24.3337 111.705 L 24.2945 111.858 L 24.241 112.005 L 24.1739 112.145 L 24.0941 112.276 L 23.8994 112.512 L 23.6633 112.707 L 23.5317 112.787 L 23.3921 112.854 L 23.2453 112.907 L 23.092 112.947 L 22.9332 112.971 L 22.7695 112.979 L 7.2305 112.979 L 7.06681 112.971 L 6.90796 112.947 L 6.75472 112.907 L 6.6079 112.854 L 6.46828 112.787 L 6.33666 112.707 L 6.10055 112.512 L 5.90591 112.276 L 5.82611 112.145 L 5.75904 112.005 L 5.70551 111.858 L 5.66629 111.705 L 5.64218 111.546 L 5.63396 111.382 L 5.63396 73.5385 L 5.64218 73.3748 L 5.66629 73.2159 L 5.70551 73.0627 L 5.75904 72.9159 L 5.82611 72.7763 L 5.90591 72.6446 L 6.10055 72.4085 L 6.33666 72.2139 L 6.46828 72.1341 L 6.6079 72.067 L 6.75472 72.0135 L 6.90796 71.9743 L 7.06681 71.9502 L 7.2305 71.942 L 7.2305 71.942" />
+    <path
        sodipodi:nodetypes="csscccccccsc"
        d="M 6.0976 2.11045 L 5.8365 2.11885 L 5.5966 2.14335 L 5.3773 2.18325 L 5.1779 2.23775 L 4.9979 2.30595 L 4.8368 2.38705 L 4.6938 2.48035 L 4.5684 2.58485 L 4.4599 2.69985 L 4.3679 2.82455 L 4.2917 2.95805 L 4.2307 3.09965 L 4.1843 3.24845 L 4.1518 3.40365 L 4.1266 3.72995 L 4.1475 4.05635 L 4.2157 4.36035 L 4.2703 4.50195 L 4.3399 4.63545 L 4.4256 4.76015 L 4.5285 4.87515 L 4.6496 4.97965 L 4.79 5.07295 L 4.9508 5.15405 L 5.133 5.22225 L 5.3378 5.27675 L 5.5661 5.31665 L 5.819 5.34115 L 6.0976 5.34955 L 7.4462 5.35075 L 8.7353 5.37175 L 8.7416 5.37175 L 9.4086 5.36595 L 9.7649 5.33995 L 10.0812 5.26245 L 10.2235 5.20455 L 10.355 5.13385 L 10.4753 5.05065 L 10.5842 4.95485 L 10.6813 4.84655 L 10.7664 4.72575 L 10.8391 4.59275 L 10.8993 4.44735 L 10.9466 4.28975 L 10.9808 4.11995 L 11.0084 3.74425 L 10.9931 3.47215 L 10.9491 3.23205 L 10.8789 3.02195 L 10.7853 2.83975 L 10.6709 2.68355 L 10.5384 2.55145 L 10.3905 2.44125 L 10.2299 2.35105 L 10.0592 2.27895 L 9.881 2.22275 L 9.5133 2.15055 L 9.1481 2.11845 L 8.8068 2.11045 L 7.4713 2.11095 L 6.0976 2.11045 L 6.0976 2.11045"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -1982,9 +1986,6 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;shape-rendering:crispEdges"
        id="path1640-5-3-7-7-8-0-6-1" />
     <g
-       id="text2935"
-       style="font-size:3.88056px;line-height:1.25;font-family:'Futurama Title Font';-inkscape-font-specification:'Futurama Title Font';white-space:pre;shape-inside:url(#rect2937)" />
-    <g
        c_partid="part_pcbtext"
        c_etype=""
        c_origin="4052.5,3423"
@@ -2160,15 +2161,6 @@
          c_note="note_name"
          id="path2266" />
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round"
-       id="rect5682"
-       width="18.732071"
-       height="41.037018"
-       x="5.6339645"
-       y="71.941956"
-       ry="1.5965346"
-       rx="1.5965346" />
   </g>
   <g
      inkscape:label="Drill"
