@@ -4,7 +4,7 @@ The module is basically built around an analog switch IC that allows you to dire
 
 I made the change to switch the IC to a DG211/DG411, since those are far more available to me. I also made the change to replace the threshold potentiometer in the front with a trimmer in the back, but also the trimmers are unique for each channel.
 
-## CAUTION: PRODUCTION FILES AND SCHEMATIC CURRENTLY NOT VERIFIED
+## CAUTION: CONFIRMED WORKING, NEW VERSION ADDS MORE SPACE TO POWER HEADER.
 
 ## PCB and Hardware
 
