@@ -14,12 +14,14 @@ I made the change to switch the IC to a DG211/DG411, since those are far more av
 You can find the schematic and BOM in the root folder. 
 For the PCBs, the module has one circuit PCB and one panel PCB. You can order them on any common PCB manufacturing service, I used JLCPCB. Standard settings should be fine.
 
-<img src="images/module.jpg" width="10%" height="10%">
+<img src="images/module.jpg" width="40%" height="40%">
 
 
 Probably the only part that is a bit special about the BOM in this are the switches: I made the choice to switch the standard push switches HAGIWO uses to CHERRY MX switches.
 They are bigger, sure, but they are also far more satisfying and everyone can [insert their favourite type](https://switchandclick.com/wp-content/uploads/2020/07/Cherry-MX-Switch-Guide-1-1024x679.webp). Make sure to get the "RGB" option which has space for the LED indicator. I got the wrong ones and had to kinda bend the bottom of mine to make the LED fit.
 
 For the build, since I had to fit it all on one pcb and it is kind of crowded, the jacks don't all have room. You have to connect the ground connections on some of them together. In the old version, this means just soldering the ground to the jack next to it, but in the new version you will have to use a wire to connect them together. But still fairly easy to do if you are mindful.
+
 <img src="images/jacks_grounds.jpg" width="40%" height="40%">
+
 (this is mine which is the V1 version, yours will looks slightly different.
