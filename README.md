@@ -25,3 +25,5 @@ For the build, since I had to fit it all on one pcb and it is kind of crowded, t
 <img src="images/jacks_grounds.jpg" width="50%" height="50%">
 
 (this is mine which is the V1 version, yours will looks slightly different. connect the grounds with a wire like shown in green.)
+
+If someone says they would prefer a version where you don't have to do this, let me know and maybe I can find a way to make it fit.
