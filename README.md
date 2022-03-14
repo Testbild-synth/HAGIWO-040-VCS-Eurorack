@@ -22,6 +22,6 @@ They are bigger, sure, but they are also far more satisfying and everyone can [i
 
 For the build, since I had to fit it all on one pcb and it is kind of crowded, the jacks don't all have room. You have to connect the ground connections on some of them together. In the old version, this means just soldering the ground to the jack next to it, but in the new version you will have to use a wire to connect them together. But still fairly easy to do if you are mindful.
 
-<img src="images/jacks_grounds.jpg" width="40%" height="40%">
+<img src="images/jacks_grounds.jpg" width="50%" height="50%">
 
-(this is mine which is the V1 version, yours will looks slightly different.
+(this is mine which is the V1 version, yours will looks slightly different. connect the grounds with a wire like shown in green.)
