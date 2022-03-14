@@ -27,3 +27,6 @@ For the build, since I had to fit it all on one pcb and it is kind of crowded, t
 (this is mine which is the V1 version, yours will looks slightly different. connect the grounds with a wire like shown in green.)
 
 If someone says they would prefer a version where you don't have to do this, let me know and maybe I can find a way to make it fit.
+
+## Tuning
+The module has two trimpots which you can use to set the trigger voltage for each channel. The easiest way to set these imo is to feed it the voltage you want (say 2.5V) and then adjust the trimpot until the point where it barely triggers a channel change. I have mine set to different voltages (1V and 2V) so that I can feed the same lfo into both and get different timing from it, but do as you prefer!
