@@ -1,6 +1,6 @@
 # HAGIWO-040-VCS-Eurorack
 <img src="images/in_rack.jpg" width="40%" height="40%">
-Through-hole PCB version of the [HAGIWO 040 "Select" Voltage controlled Switch Eurorack module](https://www.youtube.com/watch?v=aYyemBHd6mM&t=15s).
+Through-hole PCB version of the [HAGIWO 040 Select Voltage controlled Switch Eurorack module](https://www.youtube.com/watch?v=aYyemBHd6mM) .
 The module is basically built around an analog switch IC that allows you to direct one channel of a signal in one of two "output channels" depending on button presses or a control voltage.
 
 I made the change to switch the IC to a DG211/DG411, since those are far more available to me. I also made the change to replace the threshold potentiometer in the front with a trimmer in the back, but also the trimmers are unique for each channel.
